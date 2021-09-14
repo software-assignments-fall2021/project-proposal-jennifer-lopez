@@ -1,5 +1,7 @@
 # foodwithfriends
+###### Note: Project name is temporary, until a better name comes along.
 ##### Proposed By: Jennifer Lopez
+
 
 ### What and Why?
 Are you going out to eat with friends anytime soon? These friendly gatherings usually go one of two ways: a restaurant is agreed upon fairly quickly *or* you spend 30+ minutes choosing what to eat in the first place (not including the actual restaurant you are going to).
